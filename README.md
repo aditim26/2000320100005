@@ -1,3 +1,7 @@
+# Problem Statement: Develop a React-based Frontend Web Application to display the Train Schedule
+## Output Screenshot:
+![image](https://github.com/aditim26/2000320100005/assets/91279248/e0b84191-02bc-4610-8664-f97f8b4d59c5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
